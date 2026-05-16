@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langgraph
+faiss-cpu
+openai
+tqdm
+python-dotenv
+fastapi
+python-multipart
+pypdf

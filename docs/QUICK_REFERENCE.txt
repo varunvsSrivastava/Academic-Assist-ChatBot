@@ -1,0 +1,5 @@
+This file mirrors the original quick reference location for the reorganized repo.
+
+Primary runtime entrypoints:
+- Backend: `python backend/run.py`
+- Frontend: see `frontend/README.md`
