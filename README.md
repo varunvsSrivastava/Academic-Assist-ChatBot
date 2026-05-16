@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Context-Aware Academic Assistant
+# Context-Aware Academic Assistant Using Multi Agent AI and RAG
 
 Multi-agent academic assistant with RAG, retrieval validation, upload-based indexing, and feedback-driven learning.
 
@@ -19,7 +19,7 @@ Multi-agent academic assistant with RAG, retrieval validation, upload-based inde
 
 ## Main entry points
 
-- Frontend (React): see `frontend/README.md` for setup. The legacy Streamlit UI is preserved at `backend/app/streamlit_app.py` but is no longer the primary UI.
+- Frontend (React): see `frontend/README.md` for setup. 
 - Backend runner: `python backend/run.py`
 
 ## Document workflow
@@ -36,4 +36,4 @@ Multi-agent academic assistant with RAG, retrieval validation, upload-based inde
 =======
 # Academic-Assist-ChatBot
 Upload the related document and get the result. Accuracy  approx 80%
->>>>>>> c844c6ee268281154eaeb81a932727ac95079775
+
