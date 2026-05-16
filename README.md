@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Context-Aware Academic Assistant
 
 Multi-agent academic assistant with RAG, retrieval validation, upload-based indexing, and feedback-driven learning.
@@ -32,3 +33,7 @@ Multi-agent academic assistant with RAG, retrieval validation, upload-based inde
 
 - The app requires `OPENAI_API_KEY` for live generation and embeddings.
 - If the index is empty, the assistant falls back to direct LLM answering for simple questions.
+=======
+# Academic-Assist-ChatBot
+Upload the related document and get the result. Accuracy  approx 80%
+>>>>>>> c844c6ee268281154eaeb81a932727ac95079775
